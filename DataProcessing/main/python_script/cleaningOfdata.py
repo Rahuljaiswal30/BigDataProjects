@@ -1,8 +1,7 @@
 #This script is for learning purpose
 #Use case: Transform and clean the data and convert it into the tabular format for Analytical purpose
 # Author : Rahul Jaiswal
-# Date : 4th April, 2024
-
+# Date : 5th April, 2024
 
 #Import all the required libraries here
 import pyspark

@@ -1,4 +1,6 @@
 #!/bin/bash
+# this script is used to load the bulk data from csv or other delimiter seperated text file into sql datadase 
+
 start_time=$(date +%s)
 
 appdir=/Workspace/BulkLoad/scripts/      #consider this is the linux path where our code is placed
